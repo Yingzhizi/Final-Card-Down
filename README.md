@@ -3,7 +3,6 @@ My first year card game
 
 # Introduction
 The game Final Card-Down is a card game played with a special printed deck.
-
 Each card has a value between 0x0 and 0xF, a suit of either hearts, diamonds, clubs, spades, or questions, and a color of either red, green, blue, yellow, or purple.
 Each player is dealt a hand of 7 cards. The first player to place their final card down in the discard pile wins.
 
@@ -13,7 +12,7 @@ There are 800 cards in the traditional deck for Final Card-Down. Each card has a
 
 There are 16 values that a card can have, one for each value from 0 to F in hexadecimal; 0 may also be referred to as NULL. There are five suits; hearts, diamonds, clubs, spades, and questions. There are five colors; red, blue, green, yellow, and purple.
 
-<h3>The Start Of Play
+<h3>The Start Of Play</h3>
 At the start of the game, the deck is shuffled. From the deck, each player is dealt 7 cards. The first card goes to the first player, the second to the second player, the third to the third player, the fourth to the fourth player, the fifth to the first player, and so on, until each player has 7 cards. These 7 cards form the players hand. The top card on the deck is then removed and placed facing up, starting the discard pile. The rest of the deck becomes the draw pile.
 
 <h3>Playing the Game</h3>
