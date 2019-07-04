@@ -36,3 +36,11 @@ Each player takes a turn, starting in a clockwise direction. During a turn a pla
   * If the player does not say one of the above phrases at the appropriate time, the next player may say it at the start of their turn, forcing the player to draw 2 cards.
 
   * If there are no cards remaining in the draw pile, then the current discard pile is collected and inverted to become the draw pile. The discard pile does not need to be shuffled when turning it into the draw pile. The first card that was played into the discard pile will become the first card to be drawn from the draw pile.
+  
+# Get the files
+<h3>testGame.c</h3>
+which tests an implementation of the functions in Game.h
+<h3>Game.c</h3>
+which implements the functions described in Game.h
+<h3>player.c</h3>
+which implements an AI using the function described in player.h
